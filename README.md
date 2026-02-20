@@ -1,15 +1,36 @@
-# 💫 About Me:
-I’m a Web3 developer working in the Solana and Ethereum ecosystems, building and experimenting with decentralized applications and protocols. I enjoy getting close to the metal and have a strong interest in low-level programming, where performance and efficiency really matter. I particularly like working with Rust and focus on writing fast, well-optimized software by understanding how systems work under the hood.<br>
+# Hi there, I'm Vedansh Shukla 👋
 
+**Blockchain Developer(Ethereum and Solana) | Systems Software Engineer | Compiler Design | High-Performance Computing**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VedanshShuklaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VedanshShuklaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshShuklaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I specialize in building complex, multi-program systems in blockchain environments, designing coordinated on-chain and off-chain architectures that handle real-world constraints around state, execution, and throughput. My work focuses on structuring robust protocol logic and scalable system interactions rather than just writing isolated smart contracts.
+
+Alongside that, I have a strong background in low-level systems design, working close to the hardware, optimizing performance-critical code, and understanding how memory, concurrency, and execution models shape reliable software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VedanshShuklaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tech Stack
+
+**Languages & Systems**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white)
+
+**Web3 & Tools**
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Featured Projects
+
+- **[erode](https://github.com/VedanshShuklaa/erode)**: A custom compiled systems programming language featuring a Recursive Descent parser and LLVM backend for machine code generation.
+- **[ml-concurrency-bench](https://github.com/VedanshShuklaa/ml-concurrency-bench)**: A C++ benchmark suite evaluating ML kernel performance using SIMD, OpenMP, and cache-aware memory patterns.
+- **[JD-CV Matching](https://github.com/VedanshShuklaa/JD-CV-Matching)**: NLP-based semantic resume matching using DistilBERT embeddings.
+
+---
+
+### GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VedanshShuklaa&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshShuklaa&theme=dark&hide_border=true&layout=compact&langs_count=6" height="150" alt="languages" />
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=VedanshShuklaa&icon=0&color=0)](https://visitcount.itsvg.in)
